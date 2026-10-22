@@ -1,0 +1,12 @@
+{
+  "versionCode": 17,
+  "versionName": "2.6",
+  "apk": "LlamadorTV-AguasBlancas.apk",
+  "sha256": "65e09f05e894480550aa094eaa9899e0f829a93fa90e97b2e4eb73b62e8840da",
+  "notas": "Actualización automática de la app del TV, pantalla rediseñada y mejoras en la extensión.",
+  "extension": {
+    "version": "1.16.0",
+    "archivo": "Extension-Llamador-AguasBlancas.zip",
+    "notas": "Copiar publicidad entre mañana y tarde, rediseño de todas las páginas, página Actualizaciones y correcciones de errores."
+  }
+}
