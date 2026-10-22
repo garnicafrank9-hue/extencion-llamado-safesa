@@ -1,12 +1,12 @@
 {
-  "versionCode": 18,
-  "versionName": "2.7",
+  "versionCode": 19,
+  "versionName": "2.8",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "d383c44cb97d8d7bce80b4ef49d09812b495a57a1b571b2139a9e6338af496e2",
-  "notas": "Avisos por voz a horas fijas y mejoras en la app.",
+  "sha256": "b9b9efbe8f3b383f4a309384e20e42f5f9210148a1b953188c46416e5c4c8802",
+  "notas": "Avisos a horas fijas y actualización configurable por internet.",
   "extension": {
-    "version": "1.17.0",
+    "version": "1.18.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
-    "notas": "Avisos a horas fijas, Agregar publicidad arriba y horas en grilla de 4."
+    "notas": "Avisos a horas fijas, Agregar publicidad arriba, horas en grilla y actualizaciones por internet."
   }
 }
