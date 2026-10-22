@@ -1,12 +1,12 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
+  "versionCode": 20,
+  "versionName": "2.9",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "b9b9efbe8f3b383f4a309384e20e42f5f9210148a1b953188c46416e5c4c8802",
-  "notas": "Avisos a horas fijas y actualización configurable por internet.",
+  "sha256": "c6cb32bb3c297392399894e47b0a26a256fea703feffc99dee26ceb260a09d70",
+  "notas": "Panel de profesionales con fotos animadas (Dra. Sánchez y Dra. Leila Civila incluidas), nombre y horario.",
   "extension": {
-    "version": "1.18.0",
+    "version": "1.19.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
-    "notas": "Avisos a horas fijas, Agregar publicidad arriba, horas en grilla y actualizaciones por internet."
+    "notas": "Foto de cada profesional en Horario de atención, con las ilustraciones de la Dra. Sánchez y la Dra. Civila incluidas."
   }
 }
