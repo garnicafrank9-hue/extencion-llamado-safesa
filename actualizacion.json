@@ -1,0 +1,12 @@
+{
+  "versionCode": 21,
+  "versionName": "2.10",
+  "apk": "LlamadorTV-AguasBlancas.apk",
+  "sha256": "64cde211b0bcd5ce377b5f64bffc9b3da410ca7206c4c4091a3449d90c28e70e",
+  "notas": "Voz más clara y fuerte, y el nombre sale antes: voces rápidas en «Automática», refuerzo de claridad, voces precargadas, última sílaba sin cortar, timbre más bajo y cuadro «Cómo anduvo la voz».",
+  "extension": {
+    "version": "1.20.0",
+    "archivo": "Extension-Llamador-AguasBlancas.zip",
+    "notas": "Voces marcadas «rápida» o «más lenta», «Automática» alterna Claudia y Alejandro, cuadro con cómo anduvo la voz en los últimos llamados, y reintento si el TV no recibió el nombre preparado."
+  }
+}
