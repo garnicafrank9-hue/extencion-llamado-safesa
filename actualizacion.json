@@ -1,9 +1,9 @@
 {
-  "versionCode": 25,
-  "versionName": "2.14",
+  "versionCode": 26,
+  "versionName": "2.15",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "c2f3e5a598555030cd85c4f059cb872a9188af91662895331213c3eb4a2b4c53",
-  "notas": "Versión 2.14: durante un llamado o aviso la publicidad se pausa y la voz se escucha; al terminar, la publicidad sigue con sonido.",
+  "sha256": "c7eb7814065be0ffef160d68e6ac79a28cb7206cadb1691de9d90fc4add5e051",
+  "notas": "Versión 2.15: arregla los llamados que se mostraban pero no sonaban (ni timbre ni voz) en algunos TV. Incluye la pausa de la publicidad durante los llamados.",
   "extension": {
     "version": "1.25.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
