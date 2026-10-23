@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "2.15",
+  "versionCode": 28,
+  "versionName": "2.17",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "c7eb7814065be0ffef160d68e6ac79a28cb7206cadb1691de9d90fc4add5e051",
-  "notas": "Versión 2.15: arregla los llamados que se mostraban pero no sonaban (ni timbre ni voz) en algunos TV. Incluye la pausa de la publicidad durante los llamados.",
+  "sha256": "5c8f722841cbfbe46fa9d9b5cb2027b1adf8218ff479f5cbafe580d49b919b8d",
+  "notas": "Versión 2.17: el llamado dice «Pérez, diríjase al consultorio tres». Si dos médicos llaman a la vez, los llamados salen uno tras otro con una pausa clara, sin superponerse.",
   "extension": {
     "version": "1.25.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
