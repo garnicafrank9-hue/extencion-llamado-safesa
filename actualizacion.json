@@ -1,12 +1,12 @@
 {
-  "versionCode": 23,
-  "versionName": "2.12",
+  "versionCode": 24,
+  "versionName": "2.13",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "cce272859ee7458d132d5be9e4df8d9bf4500fda6f0ab9a10d06e658e66c585a",
-  "notas": "Llamado más rápido: si el nombre no está listo, lo dice la voz del TV al instante. Nueva opción «Voz del TV». El TV mide solo con cuántos hilos genera más rápido. Correcciones.",
+  "sha256": "dc891caadb40a161ebecd9ec7a14cf2569c9d1be23f2854fd50bc096cc08124d",
+  "notas": "Versión 2.13: prepara con anticipación el audio de respaldo de la voz del TV cuando se apunta al paciente.",
   "extension": {
-    "version": "1.22.0",
+    "version": "1.25.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
-    "notas": "Nueva tarjeta «Voz del TV» y casilla de respaldo; el diagnóstico muestra la velocidad medida y el estado de la voz del TV."
+    "notas": "Versión 1.25: prepara también la voz del TV para reducir la espera al anunciar nombres nuevos."
   }
 }
