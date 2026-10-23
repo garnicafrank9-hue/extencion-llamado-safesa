@@ -1,9 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "2.13",
+  "versionCode": 25,
+  "versionName": "2.14",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "dc891caadb40a161ebecd9ec7a14cf2569c9d1be23f2854fd50bc096cc08124d",
-  "notas": "Versión 2.13: prepara con anticipación el audio de respaldo de la voz del TV cuando se apunta al paciente.",
+  "sha256": "c2f3e5a598555030cd85c4f059cb872a9188af91662895331213c3eb4a2b4c53",
+  "notas": "Versión 2.14: durante un llamado o aviso la publicidad se pausa y la voz se escucha; al terminar, la publicidad sigue con sonido.",
   "extension": {
     "version": "1.25.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
