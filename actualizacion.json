@@ -1,12 +1,12 @@
 {
-  "versionCode": 28,
-  "versionName": "2.17",
+  "versionCode": 29,
+  "versionName": "2.18",
   "apk": "LlamadorTV-AguasBlancas.apk",
-  "sha256": "5c8f722841cbfbe46fa9d9b5cb2027b1adf8218ff479f5cbafe580d49b919b8d",
-  "notas": "Versión 2.17: el llamado dice «Pérez, diríjase al consultorio tres». Si dos médicos llaman a la vez, los llamados salen uno tras otro con una pausa clara, sin superponerse.",
+  "sha256": "8cb6620a6924a6fb1bf370f081a30783676d7efcc919fabe01b57cd8fe3d4df1",
+  "notas": "Versión 2.18: voces más rápidas (se sacan Sofía, Mateo y las demás voces lentas; se agregan Elena, Pablo y David). YouTube se limita a 720p como máximo para no saturar internet.",
   "extension": {
-    "version": "1.25.0",
+    "version": "1.26.0",
     "archivo": "Extension-Llamador-AguasBlancas.zip",
-    "notas": "Versión 1.25: prepara también la voz del TV para reducir la espera al anunciar nombres nuevos."
+    "notas": "Versión 1.26: nuevas voces rápidas Elena, Pablo y David, con muestras «Pérez. Diríjase al consultorio tres»."
   }
 }
